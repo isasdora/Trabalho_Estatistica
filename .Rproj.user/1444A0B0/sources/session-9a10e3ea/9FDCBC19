@@ -1,0 +1,27 @@
+{
+    "id": "9FDCBC19",
+    "path": "/cloud/project/statistic_project.R",
+    "project_path": "statistic_project.R",
+    "type": "r_source",
+    "hash": "344047841",
+    "contents": "",
+    "dirty": false,
+    "created": 1672786155013.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "34,0",
+        "scrollLine": "30"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1675358032,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1675358032873,
+    "read_only": false,
+    "read_only_alternatives": []
+}
